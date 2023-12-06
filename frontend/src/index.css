@@ -1,0 +1,16 @@
+/* Define the background image */
+.background-image {
+  background-image: url('./assets//Banner.jpg');
+
+  /* Set background size to cover the entire container */
+  background-size: cover;
+
+  /* Set background position to center */
+  background-position: center;
+
+  /* Make the background image responsive */
+  /* Scale the background image to cover the entire container width */
+  /* and maintain aspect ratio */
+  background-size: cover;
+}
+
